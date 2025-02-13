@@ -2,3 +2,6 @@
 	path = testa
 	url = https://github.com/rocky2015aaa/testa.git
 	branch = submodule
+[submodule "cmd"]
+	path = cmd
+	url = https://github.com/rocky2015aaa/testc.git
